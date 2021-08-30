@@ -38,3 +38,4 @@ rsconnect/
 # any data files that may contain information
 *.xlsx
 *.RData
+*.sav
